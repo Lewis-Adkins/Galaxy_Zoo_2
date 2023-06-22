@@ -1,0 +1,9 @@
+frac_data     = 0.035
+frac_valid    = 0.0035
+photo_size    = (424,424)
+degree_range  = 90
+batch_size    = 64
+epoch         = 100
+pretrained    = False
+learning_rate = 0.01
+momentum      = 0.9
