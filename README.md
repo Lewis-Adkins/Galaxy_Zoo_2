@@ -11,6 +11,7 @@ Create a folder named galaxy_data and extract all files into folder
 
 Step 3:
 Head over to the Glaxaxy Zoo 2 homepage and download the Table 1 - Normal-depth sample with new debiasing method csv file under the Galaxy Zoo 2 Section
+https://data.galaxyzoo.org
 Upload file to the galaxy_data folder.
 
 Step 4:
@@ -32,4 +33,7 @@ Run cudacheck.ipynb to tell whether or not if you have cuda installed on your ma
 
 Step 6:
 Run galaxy_classifcation.ipynb. If there are any errors try restarting the the cells and run again. All photos will be seperated by class and then further sepearted into your fraction of data that you would like in there folders. When everything is fully run and trained you can upload any photo from the validaiton folder to your model to test it.
+
+Acknowledgements
+They are the "original" sample of subject images in Galaxy Zoo 2 (Willett et al. 2013, MNRAS, 435, 2835, DOI: 10.1093/mnras/stt1458) as identified in Table 1 of Willett et al. and also in Hart et al. (2016, MNRAS, 461, 3663, DOI: 10.1093/mnras/stw1588).
 
