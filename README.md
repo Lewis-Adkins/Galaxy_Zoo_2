@@ -13,7 +13,7 @@ Create a folder named galaxy_data and extract all files into folder
 -  |-- cudacheck.ipynb
 -  | -- parameters.txt
 -  |   - galaxy_classification.ipynb
--  |-- galaxy_data         <---- Exctract here
+-  |-- galaxy_data         <---- Extract here
 -      |-- gz2_hart16.csv
 
 Step 3:
