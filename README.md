@@ -9,6 +9,13 @@ https://www.kaggle.com/datasets/jaimetrickz/galaxy-zoo-2-images
 Step 2: 
 Create a folder named galaxy_data and extract all files into folder
 
+- Galaxy_Zoo
+  |-- cudacheck.ipynb
+  |-- parameters.txt
+  |-- galaxy_classification.ipynb
+  |-- galaxy_data         <---- Exctract here
+      |-- gz2_hart16.csv
+
 Step 3:
 Head over to the Glaxaxy Zoo 2 homepage and download the Table 1 - Normal-depth sample with new debiasing method csv file under the Galaxy Zoo 2 Section
 https://data.galaxyzoo.org
